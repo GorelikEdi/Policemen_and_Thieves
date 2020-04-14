@@ -1,4 +1,5 @@
-# Policemen catch thieves  ![alt text][pic]  
+![alt text][pic] 
+# Policemen catch thieves    
 ### A better solution than on https://www.geeksforgeeks.org/policemen-catch-thieves/  
   
 Policemen catch thieves
