@@ -1,4 +1,4 @@
-# Policemen catch thieves https://github.com/GorelikEdi/Policemen_and_Thieves/blob/master/pics/police-thief.jpg
+# Policemen catch thieves  ![alt text][pic]  
 ### A better solution than on https://www.geeksforgeeks.org/policemen-catch-thieves/  
   
 Policemen catch thieves
@@ -25,3 +25,4 @@ Input : arr[] = {'P', 'T', 'P', 'T', 'T', 'P'},
 k = 3
 Output : 3
 ```
+[pic]: https://github.com/GorelikEdi/Policemen_and_Thieves/blob/master/pics/police-thief.jpg
