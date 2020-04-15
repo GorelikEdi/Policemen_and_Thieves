@@ -24,7 +24,7 @@ catches second thief and third policeman catches third thief.
 
 Input : arr[] = {'P', 'T', 'P', 'T', 'T', 'P'}, k = 3  
 Output : 3
-Here maximum 3 thieves can be caught, first policeman catches first thief and second policeman 
-can catch either second or third thief.
+Here maximum 3 thieves can be caught, first policeman can catch either first or second thief, second policeman 
+can catch any of the thieves and third policeman can catch either second or third thief.
 ```
 [pic]: https://github.com/GorelikEdi/Policemen_and_Thieves/blob/master/pics/police-thief.jpg
